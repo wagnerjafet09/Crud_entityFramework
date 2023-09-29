@@ -1,0 +1,12 @@
+C:\projects\CRUD\CRUD\CRUD.Data\bin\Debug\net6.0\CRUD.Data.deps.json
+C:\projects\CRUD\CRUD\CRUD.Data\bin\Debug\net6.0\CRUD.Data.dll
+C:\projects\CRUD\CRUD\CRUD.Data\bin\Debug\net6.0\CRUD.Data.pdb
+C:\projects\CRUD\CRUD\CRUD.Data\obj\Debug\net6.0\CRUD.Data.csproj.AssemblyReference.cache
+C:\projects\CRUD\CRUD\CRUD.Data\obj\Debug\net6.0\CRUD.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CRUD\CRUD\CRUD.Data\obj\Debug\net6.0\CRUD.Data.AssemblyInfoInputs.cache
+C:\projects\CRUD\CRUD\CRUD.Data\obj\Debug\net6.0\CRUD.Data.AssemblyInfo.cs
+C:\projects\CRUD\CRUD\CRUD.Data\obj\Debug\net6.0\CRUD.Data.csproj.CoreCompileInputs.cache
+C:\projects\CRUD\CRUD\CRUD.Data\obj\Debug\net6.0\CRUD.Data.dll
+C:\projects\CRUD\CRUD\CRUD.Data\obj\Debug\net6.0\refint\CRUD.Data.dll
+C:\projects\CRUD\CRUD\CRUD.Data\obj\Debug\net6.0\CRUD.Data.pdb
+C:\projects\CRUD\CRUD\CRUD.Data\obj\Debug\net6.0\ref\CRUD.Data.dll
